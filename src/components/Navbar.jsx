@@ -13,6 +13,9 @@ const Navbar = () => {
         <li>
           <Link to="/create-transaction">Create Transaction</Link>
         </li>
+        <li>
+          <Link to="/pricing">Pricing</Link>
+        </li>
       </ul>
     </nav>
   );
